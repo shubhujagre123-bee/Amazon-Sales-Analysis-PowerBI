@@ -7,7 +7,9 @@ The dashboard provides an overview of Amazon product sales performance,
 including sales trends, product categories, product reviews, and top-selling
 products.
 ## Dashboard Preview
-![Amazon Sales Dashboard](Dashboard/Amazon_Sales_Dashboard.png)
+Amazon_Combined_Data.xlsx
+Amazon_Project.pbix
+Amazon_Sales_Dashboard.png
 ## Key Metrics
 The dashboard includes the following key performance indicators:
 - YTD Sales
